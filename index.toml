@@ -16,6 +16,11 @@ hash = "26f1136d851da18ad1c5dea577706c3655fa90b69a99c51a141728e7fc1a7691"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
+metafile = true
+
+[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
 metafile = true
