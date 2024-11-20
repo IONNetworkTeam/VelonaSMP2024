@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "90d807174b989a4e9516937d461a9488311095db7b6896e048c57b7825b15110"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
 metafile = true
@@ -26,8 +31,8 @@ hash = "8ea8286bc1c06814604bcbe17cab5798339b00cef0dc93312ff6d2f4b1086087"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "3254ff5ef416cb7d2b4c28b8ea169c17c7844750c8b96dfaef19527707dbc529"
+file = "mods/terralith.pw.toml"
+hash = "47a2b5363775fb6212be5960ac211cf99f5d958984c5747fe58f7311f4d31cf7"
 metafile = true
 
 [[files]]
