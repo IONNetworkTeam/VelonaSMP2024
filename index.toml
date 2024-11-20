@@ -1,13 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "c4b7e6ef2aac893241e6e31c4dcee6244ec764ab31da2bb72e76f93c82d7c26f"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "27fb4e6443fd9fdedccb1d02d20f51f1272b26f29533acc12c3bd839fcb61364"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "90d807174b989a4e9516937d461a9488311095db7b6896e048c57b7825b15110"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "751b5e7213feb2072ee728327dcbb58134add5c5b0441c866dc0aa9fa1255e3b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "d40faa8d75ec7b4741146b033dca1d47368868985da3dcc6dc32fd9def5841d9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
@@ -26,8 +61,18 @@ hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "40ff528c1c0cb17ed25b91771185dd84afb3ddc0544878000e395613525cb23a"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "8ea8286bc1c06814604bcbe17cab5798339b00cef0dc93312ff6d2f4b1086087"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]
@@ -38,4 +83,49 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "f08889988accf23a39c08c2934654553c8affc21bef5b33521d8997eeb33e95e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "0b9c1172cbd3f57f6642c4f23150ecd1374c93d7a5c8b5842f01fb9769ffb118"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "547e02f58f0bfbb5e7f6f4486940589cbe442da52b08150476901ff6dca2c3f1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "873ebbc93f4b335a6cbefe747ff8c7a7dc1763f73163ede6aa16c25c0805419b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "eccab4f9bcbc604767e9794ca746588f673db63f85bd63adf0b505b396a3c23c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "36677d4fc10be59569e6982a38f097e252046579aa97830fbb33a915f62b6c2b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "665d6e5cb2adf57cf7f9c41656855951db6887f58653fe8a3986676be7846af4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "b725c2d4f9a9cd1693b4db666ef57a397888d47f24f767418f68834fe02de899"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "1bd0ba1128e6ae3f926298c2ffe33180cca75362fae3bd92146d43977297f01c"
 metafile = true
